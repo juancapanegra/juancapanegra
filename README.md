@@ -15,5 +15,5 @@ Hola, soy Juan Silva y me gusta programar para crear soluciones concretas, espec
 ## Mi enfoque
 Me gusta construir proyectos y aplicaciones completas utilizando arquitectura Flux, un patrón de diseño que facilita la gestión del estado en aplicaciones complejas, garantizando un flujo de datos que mejora la previsibilidad y mantenibilidad del código.
 
-## 
+## Me encuentras en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyjuansilva/)
